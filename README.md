@@ -32,13 +32,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srgabe&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Gabriel Sales Top Langs" />
-</p>
-
----
 
 ### 📫 Conecte-se comigo:
 
