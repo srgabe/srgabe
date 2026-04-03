@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://qiskit.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qiskit/qiskit-original.svg" alt="qiskit" width="45" height="45"/> </a>
+  <a href="https://qiskit.org/" target="_blank"> <img src="https://simpleicons.org/icons/qiskit.svg" alt="qiskit" width="45" height="45"/> </a>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45"/> </a>
   
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
