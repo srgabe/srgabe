@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Gabriel Sales</h1>
-<h3 align="center">PhD Physics Student | Data Scientist | Machien Learning | Quantum Computing </h3>
+<h3 align="center">PhD Physics Student | Data Scientist | Machine Learning | Quantum Computing</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://qiskit.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qiskit/qiskit-original.svg" alt="qiskit" width="45" height="45"/> </a>
+  <a href="https://qiskit.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qiskit/qiskit-original.svg" alt="qiskit" width="45" height="45"/> </a>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45"/> </a>
   
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
